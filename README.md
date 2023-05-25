@@ -3,7 +3,7 @@
 
 ## Description of the project:
 
-A web application that allows postal items. The system registers postal items (letters, parcels, parcels, postcards) and their movement.
+A web application that allows postal items. The system registers postal items (letters, parcels, packages, postcards) and their movement.
 It is also possible to receive information about the movement by mail. You can interact with the application using the Swagger UI.
 
 ## Functional Applications:
